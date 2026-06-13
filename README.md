@@ -119,13 +119,12 @@ The project follows the 9 prescribed steps of the course end project:
 
 > The screenshot below shows the emotional refinement pass, where Jenna reveals her personal backstory before climbing Mount Erevan — a direct result of a targeted follow-up prompt asking ChatGPT to deepen character consistency.
 
-![Step 7 Screenshot](Step_7_Screenshot.png)
 
 ---
 
 ##  Author
 
-**Vikrant**
+**Vikrant Moholkar**
 Professional Certificate in Generative AI and Machine Learning
 Indian Institute of Technology Guwahati (IIT Guwahati)
 
